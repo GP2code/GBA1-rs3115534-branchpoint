@@ -1,0 +1,7 @@
+Astrocyte
+Excitatory_Neuron
+Inhibitory_Neuron
+Microglia
+Oligo_Precursor
+Oligodendrocyte
+Vascular

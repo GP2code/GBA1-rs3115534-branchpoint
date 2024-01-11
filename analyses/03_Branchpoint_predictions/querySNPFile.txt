@@ -1,0 +1,2 @@
+id  chromosome  chrom_start strand  ref_allele  alt_allele
+rs3115534  chr1    155235878    -   G   T

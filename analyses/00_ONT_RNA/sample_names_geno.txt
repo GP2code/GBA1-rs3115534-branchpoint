@@ -1,0 +1,6 @@
+MT_37   GG
+MT_89   TT
+CT_89   GG
+PT_37   GT
+PT_89   GT
+WT_89   TT

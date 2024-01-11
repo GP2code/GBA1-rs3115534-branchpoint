@@ -1,0 +1,7 @@
+Astrocyte	#F0E442
+Excitatory_Neuron	#E69F00
+Inhibitory_Neuron	#D55E00
+Microglia	#0072B2
+Oligo_Precursor	#56B4E9
+Oligodendrocyte	#009E73
+Vascular	#CC79A7

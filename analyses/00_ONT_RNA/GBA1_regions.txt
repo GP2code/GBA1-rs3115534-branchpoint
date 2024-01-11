@@ -1,0 +1,5 @@
+intron8transcript
+exon9
+exon8
+intron8
+intron8_minus_transcript
