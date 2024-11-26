@@ -3,6 +3,7 @@
 `GP2 ❤️ Open Science 😍`
 
 [![DOI](https://zenodo.org/badge/741747163.svg)](https://zenodo.org/doi/10.5281/zenodo.10484208)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Last Updated:** August 2024
 
