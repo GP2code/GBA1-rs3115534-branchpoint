@@ -5,12 +5,12 @@
 [![DOI](https://zenodo.org/badge/741747163.svg)](https://zenodo.org/doi/10.5281/zenodo.10484208)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Last Updated:** August 2024
+**Last Updated:** December 2024 (Added link to published manuscript)
 
 ## Summary
 The following repository encompasses all scripts developed and used in the manuscript titled _**"African ancestry neurodegeneration risk variant disrupts an intronic branchpoint in GBA1"**_. This study explores the disease risk mechanism for the non-coding _GBA1_ rs3115534 variant. 
 
-Pre-print link: https://www.medrxiv.org/content/10.1101/2024.02.20.24302827v1
+* Manuscript link: https://www.nature.com/articles/s41594-024-01423-2
 
 This is a follow-up to the first largest genome-wide assessment of Parkinson’s disease in the African and African admixed populations, published here:
 
